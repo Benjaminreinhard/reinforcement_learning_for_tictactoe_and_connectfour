@@ -1,1 +1,1 @@
-# reinforcement_learning_for_tictactoe_and_connectfour
+# Reinforcement learning for Tic Tac Toe and Connect Four
