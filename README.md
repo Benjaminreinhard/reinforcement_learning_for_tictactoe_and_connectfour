@@ -34,7 +34,7 @@ There are two folders `./tictactoe/` and `./connectfour/`. Both contain the foll
 
 ## Installation
 
-Download this repo to your local computer and check if you have installed the necessary packages. To do so, run:
+Download this repo to your local device and check if you have installed the necessary packages. To do so, run:
 
 ```
 git clone https://github.com/Benjaminreinhard/reinforcement_learning_for_tictactoe_and_connectfour
