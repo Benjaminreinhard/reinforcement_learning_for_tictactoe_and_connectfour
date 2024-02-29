@@ -15,6 +15,8 @@ The other players are the following:
 - **The Chain Player**: only for Connect Four: you can pick 'offensive' or 'defensive'. The 'offensive' one always extends its longest chain on the grid and the 'defensive' one alway blocks the longest chain of the opponent.
 - **The Human Player**: for both games: allows you to play
 
+In `pseudocodes.py` you find pseudo-codes of the methods that were used for the RL players.
+
 ## Structure
 
 There are two folders `./tictactoe/` and `./connectfour/`. Both contain the following files and directories:
