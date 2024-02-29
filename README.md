@@ -17,7 +17,7 @@ The other players are the following:
 
 ## Structure
 
-There are two folders `tictactoe` and `connectfour`. Both contain the following files and directories:
+There are two folders `./tictactoe/` and `./connectfour/`. Both contain the following files and directories:
 
 - `game.py` <-- contains the structure of the game
 - `players.py` <-- contains the players
