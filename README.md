@@ -47,13 +47,13 @@ pip3 install -r requirements.txt
 Choose one of the games. To choose Tic Tac Toe, run:
 
 ```
-cd reinforcement_learning_for_tictactoe_and_connectfour/tictactoe
+cd tictactoe
 ```
 
 To choose Connect Four, run:
 
 ```
-cd reinforcement_learning_for_tictactoe_and_connectfour/connectfour
+cd connectfour
 ```
 
 ### Training
