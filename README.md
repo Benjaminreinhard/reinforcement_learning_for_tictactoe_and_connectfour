@@ -38,6 +38,7 @@ Download this repo to your local device and check if you have installed the nece
 
 ```
 git clone https://github.com/Benjaminreinhard/reinforcement_learning_for_tictactoe_and_connectfour
+cd reinforcement_learning_for_tictactoe_and_connectfour
 pip3 install -r requirements.txt
 ```
 
